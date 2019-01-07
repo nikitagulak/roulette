@@ -1,25 +1,17 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette", "Roulette\Roulette.csproj", "{6A29F815-7AA3-4EA1-895E-651A21A4F53E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette", "Roulette\Roulette.csproj", "{AB86A32F-EA73-4029-A10B-7194C6F8B2D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A29F815-7AA3-4EA1-895E-651A21A4F53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A29F815-7AA3-4EA1-895E-651A21A4F53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A29F815-7AA3-4EA1-895E-651A21A4F53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A29F815-7AA3-4EA1-895E-651A21A4F53E}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F9D853A3-CE5D-45E5-85ED-E4E25A561F01}
+		{AB86A32F-EA73-4029-A10B-7194C6F8B2D7}.Debug|x86.ActiveCfg = Debug|x86
+		{AB86A32F-EA73-4029-A10B-7194C6F8B2D7}.Debug|x86.Build.0 = Debug|x86
+		{AB86A32F-EA73-4029-A10B-7194C6F8B2D7}.Release|x86.ActiveCfg = Release|x86
+		{AB86A32F-EA73-4029-A10B-7194C6F8B2D7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
