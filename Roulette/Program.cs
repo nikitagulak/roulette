@@ -7,10 +7,12 @@ namespace Roulette
         public static void Main(string[] args)
         {
             // Declare and initialize bet object somewhere global
-            Bet userBet = new Bet();
+            Bet userBet = new Bet(;
 
             // Call method set bet values when user presses Spin
-            userBet.SetValues(betMoneyAmount: 5, slot: 8);
+            Console.WriteLine(userBet.moneyBid);
+            Console.WriteLine(userBet.color);
+            Console.WriteLine(userBet.type);
         }
     }
 }
